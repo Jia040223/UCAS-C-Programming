@@ -1,0 +1,2 @@
+C:\Users\haohao\source\repos\AI_chess\Debug\AI_chess.exe
+C:\Users\haohao\Desktop\AI_chess\Debug\AI_chess.exe

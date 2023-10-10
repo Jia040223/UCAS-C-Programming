@@ -1,0 +1,19 @@
+﻿  AC.c
+  AI.c
+  IO.c
+C:\Users\haohao\Desktop\AI_chess\IO.c(169,3): warning C4033: “DrawBoardArray”必须返回值
+  judge.c
+  main.c
+C:\Users\haohao\Desktop\AI_chess\main.c(17,8): warning C4101: “c”: 未引用的局部变量
+C:\Users\haohao\Desktop\AI_chess\main.c(48,8): warning C4101: “c”: 未引用的局部变量
+C:\Users\haohao\Desktop\AI_chess\main.c(79,7): warning C4101: “c”: 未引用的局部变量
+C:\Users\haohao\Desktop\AI_chess\main.c(194,16): warning C4047: “=”:“int (*)[13]”与“int *”的间接级别不同
+C:\Users\haohao\Desktop\AI_chess\main.c(217,18): warning C4047: “=”:“int (*)[13]”与“int *”的间接级别不同
+C:\Users\haohao\Desktop\AI_chess\main.c(178,7): warning C4101: “c”: 未引用的局部变量
+  score.c
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\haohao\Desktop\AI_chess\judge.c(617): warning C4715: “AI_Whe_chengwu”: 不是所有的控件路径都返回值
+  All 33 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AI_chess.vcxproj -> C:\Users\haohao\Desktop\AI_chess\Release\AI_chess.exe
